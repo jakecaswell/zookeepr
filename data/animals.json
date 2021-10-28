@@ -124,6 +124,26 @@
       "diet": "omnivore",
       "personalityTraits": [],
       "id": "12"
+    },
+    {
+      "name": "Chester",
+      "species": "Cheetah",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "dsfgsdfg",
+      "species": "sdfgsdfg",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
